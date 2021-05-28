@@ -23,6 +23,7 @@ Heart = Invisibility and/or Recovery and points (500)
 ## Enemies
 Purple Blob = Passes over fruits/gems/other items at fast speed and is aware of platform edges as well as gravity
 Green Blob = Passes over fruits/gems/other items and is aware of gravity but not platform edges
+
 Red Zombie = Animated when hit, passes over fruits/gems/other items and isn’t aware of gravity
 
 ## Scoring

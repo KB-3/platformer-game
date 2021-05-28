@@ -29,7 +29,9 @@ Red Zombie = Animated when hit, passes over fruits/gems/other items and isn’t 
 
 ## Scoring
 Fruits = 36 points
+
 Coin = 120-300 points
+
 Heart = +1 Heart and 500 points
 
 # Custom Featues

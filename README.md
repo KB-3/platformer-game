@@ -37,7 +37,7 @@ Fruits/Gems = 36 points
 
 
 Coin = 120-300 points
-![coin](https://raw.githubusercontent.com/KB-3/platformer-game/main/screenshots/play_screen.PNG)
+![coin](https://raw.githubusercontent.com/KB-3/platformer-game/main/assets/images/items/c1.png)
 
 Heart = +1 Heart and 500 points
 ![heart](https://raw.githubusercontent.com/KB-3/platformer-game/main/screenshots/play_screen.PNG)

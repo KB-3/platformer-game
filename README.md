@@ -24,13 +24,14 @@ Heart = Invisibility and/or Recovery and points (500)
 
 ## Enemies
 Purple Blob = Passes over fruits/gems/other items at fast speed and is aware of platform edges as well as gravity
-![fruit1](https://raw.githubusercontent.com/KB-3/platformer-game/main/assets/images/items/pear.png)
+![purpleblob](https://raw.githubusercontent.com/KB-3/platformer-game/main/assets/images/characters/purp.png)
 
 Green Blob = Passes over fruits/gems/other items and is aware of gravity but not platform edges
-![fruit1](https://raw.githubusercontent.com/KB-3/platformer-game/main/assets/images/items/pear.png)
+![greenblob](https://raw.githubusercontent.com/KB-3/platformer-game/main/assets/images/characters/greenblob.png)
 
 Red Zombie = Animated when hit, passes over fruits/gems/other items and isn’t aware of gravity
-![fruit1](https://raw.githubusercontent.com/KB-3/platformer-game/main/assets/images/items/pear.png)
+![redzom1](https://raw.githubusercontent.com/KB-3/platformer-game/main/assets/images/characters/redzom.png)
+![redzom2](https://raw.githubusercontent.com/KB-3/platformer-game/main/assets/images/characters/redzomhit.png)
 
 ## Scoring
 Fruits/Gems = 36 points

@@ -1,5 +1,4 @@
-# Platformer-Game
-Platformer Game Code
+
 
 ## Goal
 

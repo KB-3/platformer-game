@@ -3,7 +3,7 @@ Platformer Game Code
 
 ## Goal
 
-Clear all levels by getting hero to flag without dieing due to collisions with enemeies.
+Clear all levels by getting hero to flag without dying due to collisions with enemeies.
 
 ## Controls
 

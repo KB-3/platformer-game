@@ -29,10 +29,15 @@ Red Zombie = Animated when hit, passes over fruits/gems/other items and isn’t 
 
 ## Scoring
 Fruits = 36 points
+![fruit1](https://raw.githubusercontent.com/KB-3/platformer-game/main/screenshots/start_screen.PNG)
+![fruit2](https://raw.githubusercontent.com/KB-3/platformer-game/main/screenshots/start_screen.PNG)
+![fruit3](https://raw.githubusercontent.com/KB-3/platformer-game/main/screenshots/start_screen.PNG)
+
 
 Coin = 120-300 points
+![coin](https://raw.githubusercontent.com/KB-3/platformer-game/main/screenshots/play_screen.PNG)
 
 Heart = +1 Heart and 500 points
-
+![heart](https://raw.githubusercontent.com/KB-3/platformer-game/main/screenshots/play_screen.PNG)
 # Custom Featues
 I basically created a powerup where the hero could disappear as help or stress depending on how many hearts the player held. I basically did this by animating the hero.

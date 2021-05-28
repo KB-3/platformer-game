@@ -15,7 +15,7 @@ Clear all levels by getting hero to flag without dying due to collisions with en
 
 Use the arrow and space bar to run, jump, and move across screen to get to flag.
 
-## Iteems
+## Items
 All fruits = points (36)
 
 Coin = Invisibility and/or points (120-300)

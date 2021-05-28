@@ -7,4 +7,4 @@ Clear all levels by getting hero to flag without dieing due to collisions with e
 
 ## Controls
 
-Use the arrow and space bar, to run, jump, and move across screen to get to flag.
+Use the arrow and space bar to run, jump, and move across screen to get to flag.

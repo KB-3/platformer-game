@@ -17,7 +17,9 @@ Use the arrow and space bar to run, jump, and move across screen to get to flag.
 
 ## Iteems
 All fruits = points (36)
+
 Coin = Invisibility and/or points (120-300)
+
 Heart = Invisibility and/or Recovery and points (500)
 
 ## Enemies
@@ -28,10 +30,10 @@ Green Blob = Passes over fruits/gems/other items and is aware of gravity but not
 Red Zombie = Animated when hit, passes over fruits/gems/other items and isn’t aware of gravity
 
 ## Scoring
-Fruits = 36 points
-![fruit1](https://raw.githubusercontent.com/KB-3/platformer-game/main/screenshots/start_screen.PNG)
-![fruit2](https://raw.githubusercontent.com/KB-3/platformer-game/main/screenshots/start_screen.PNG)
-![fruit3](https://raw.githubusercontent.com/KB-3/platformer-game/main/screenshots/start_screen.PNG)
+Fruits/Gems = 36 points
+![fruit1](https://raw.githubusercontent.com/KB-3/platformer-game/main/assets/images/items/pear.png)
+![fruit2](https://raw.githubusercontent.com/KB-3/platformer-game/main/assets/images/items/straw.png)
+![Gem](https://raw.githubusercontent.com/KB-3/platformer-game/main/assets/images/items/gemm.png)
 
 
 Coin = 120-300 points

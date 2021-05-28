@@ -1,4 +1,4 @@
-# Platformer-game
+# Platformer-Game
 Platformer Game Code
 
 ## Goal
